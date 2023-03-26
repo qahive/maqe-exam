@@ -1,0 +1,16 @@
+{
+    "name": "Apple iPad Pro 11-inch Wi-Fi + Cellular 128GB Silver 2022 (4th Gen)",
+    "price": "38,900",
+    "sku": "194253277040",
+    "savePrice": "38,900",
+    "installmentLabel": "โปรโมชั่นผ่อน 0% ที่ร่วมรายการ",
+    "bundle": [
+        {
+            "name": "Apple 35W Dual USB-C Port Compact Power Adapter (2022)",
+            "sku": "194253299752",
+            "price": "1,890",
+            "installmentLabel": "โปรโมชั่นผ่อน 0% ที่ร่วมรายการ"            
+        }
+    ],
+    "total":"40,790"
+}
